@@ -1216,12 +1216,12 @@
         {
           "name": "STM32 Cores",
           "architecture": "stm32",
-          "version": "1.9.1",
+          "version": "1.9.2",
           "category": "Contributed",
-          "url": "https://github.com/dnandha/Arduino_Core_STM32/archive/STM32-1.9.1.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-STM32-1.9.1.tar.gz",
-          "checksum": "SHA-256:4d5e7390363219ff9544d75e40701ca9aa4f37a91981eb9f3531e7d27b1cb291",
-          "size": "50261694",
+          "url": "https://github.com/dnandha/Arduino_Core_STM32/archive/STM32-1.9.2.tar.gz",
+          "archiveFileName": "Arduino_Core_STM32-STM32-1.9.2.tar.gz",
+          "checksum": "SHA-256:bd2795d6ecac924cb91fb48bc6cd1b1597aa182618424aa989e895dcfddc6a53",
+          "size": "50269249",
           "boards": [
             {"name": "Nucleo F207ZG"},
             {"name": "Nucleo F429ZI"},
